@@ -7,7 +7,7 @@ from features import preprocess_user_input, get_starting_airports, get_destinati
 # List of model filenames 
 model_filenames = [
     r'C:\Users\chant\adv_mla_2023\data_product_with_ml\models\xgb_default.joblib',
-    r'C:\Users\chant\adv_mla_2023\data_product_with_ml\models\rf_model.joblib'
+    #r'C:\Users\chant\adv_mla_2023\data_product_with_ml\models\rf_model.joblib'
     # Add other model filenames as necessary
 ]
 
