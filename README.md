@@ -3,6 +3,10 @@ data_product_with_ml
 
 A short description of the project.
 
+Important Note for Running Streamlit App:
+
+- Please ensure you download the rf_model.joblib file from https://drive.google.com/drive/folders/1TwNR-UYZLnFx1Kl46KrE9Wy4ZNHQLvpz?usp=sharing and save it into C:\Users\chant\adv_mla_2023\data_product_with_ml\models before testing the Streamlit App. This has been tested and does work however the .joblib file is too large and cannot be uploaded onto GitHub. Whilst not ideal this serves as a workaround until more robust solutions involving cloud storage and Git LFS can be thoroughly explored in future iterations. All other .joblib files have been uploaded to GitHub. Please reach out to Group 15 via chanthru2211@gmail.com or chathru.vimalasri@student.uts.edu.au if any further clarification is required here. 
+
 Project Organization
 ------------
 
